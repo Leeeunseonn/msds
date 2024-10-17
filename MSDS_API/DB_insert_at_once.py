@@ -3,7 +3,7 @@
 
 # uvicorn version 0.18.3
 # xmltodict version 0.13.0
-# requests version 2.28.1
+# requests version 2.28.1 
 # urllib3 version 1.26.11
 # fastapi version 0.85.1
 
