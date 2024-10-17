@@ -1,0 +1,14 @@
+2024-04-11 16:49:42,106 - INFO - Client IP: 127.0.0.1 - "GET / HTTP/http://localhost:8001/"
+2024-04-11 16:49:42,113 - INFO - Response status: 200
+2024-04-11 16:49:42,167 - INFO - Client IP: 127.0.0.1 - "GET /favicon.ico HTTP/http://localhost:8001/favicon.ico"
+2024-04-11 16:49:42,169 - INFO - Response status: 404
+2024-04-11 16:50:04,795 - INFO - Client IP: 127.0.0.1 - "GET /msds HTTP/http://localhost:8001/msds?casno=30007-47-7&keno=KE-03499&enno=233-139-2&cud=I&chemical_substance_id="
+2024-04-11 16:50:10,360 - INFO - Response status: 200
+2024-04-11 16:52:25,783 - INFO - Client IP: 127.0.0.1 - "GET /msds HTTP/http://localhost:8001/msds?casno=30007-47-7&keno=KE-03499&enno=233-139-2&cud=I&chemical_substance_id="
+2024-04-11 16:52:31,857 - INFO - Response status: 200
+2024-04-11 16:53:11,522 - INFO - Client IP: 127.0.0.1 - "GET /msds HTTP/http://localhost:8001/msds?casno=30007-47-7&keno=KE-03499&enno=233-139-2&cud=I&chemical_substance_id="
+2024-04-11 16:53:17,711 - INFO - Response status: 200
+2024-04-11 17:25:54,248 - INFO - Client IP: 127.0.0.1 - "GET /msds HTTP/http://localhost:8001/msds?casno=31512-74-0&keno=&enno=&cud=I&chemical_substance_id="
+2024-04-11 17:26:00,395 - INFO - Response status: 200
+2024-04-11 17:55:11,099 - INFO - Client IP: 127.0.0.1 - "GET /msds HTTP/http://localhost:8001/msds?casno=75-21-8&keno=&enno=&cud=I&chemical_substance_id="
+2024-04-11 17:55:18,470 - INFO - Response status: 200
