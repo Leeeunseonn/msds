@@ -57,7 +57,7 @@ class LoggingMiddleware(BaseHTTPMiddleware):
         return response
 #############################################################################
 
-## msds 연동 REST API 정보   http://61.78.63.49:8001/msds?casno=71-43-2 
+## msds 연동 REST API 정보   http://61.78.63.49:8001/msds?casno=71-43-2  
 ## /msds				>>	기존 물질정보 등록/수정  
 ## /msds_epm			>>	epm 물질정보 등록  
 ## /msds_bacth			>>	기존 물질정보 최신정보 수정 
