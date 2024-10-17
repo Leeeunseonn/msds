@@ -1,5 +1,5 @@
 # static variable file #
-from config import *
+from config import * 
 from funcs import dict_fill_na, dict_replace_quote
 from setting import *
 
